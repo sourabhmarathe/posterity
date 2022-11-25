@@ -4,7 +4,7 @@ A blog repo to hold my current beliefs accountable in the future
 
 ## Aptos and Blockchain Programmability Spectrum
 
-First post is up [here](./crypto/11-24-22-blockchain-programmability-spectrum.md)!
+First post is up [here](crypto/11-24-22-blockchain-programmability-spectrum.md)!
 
 ## Why Git(Hub)?
 
