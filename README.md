@@ -6,6 +6,8 @@ A blog repo to hold my current beliefs accountable in the future
 
 First post is up [here](crypto/11-24-22-blockchain-programmability-spectrum.md)!
 
+Second post, about maximizing transparent collateral is [here](crypto/assymetric-info-root-evil.md).
+
 ## Why Git(Hub)?
 
 When considering the options for a blog, the simplest option for a blogging platform is a good old fashioned GitHub repo. Most of the learning curve with using a GitHub repo for blogging is learning how to use `git` which I am already familiar with. There are lots of benefits to this model:
