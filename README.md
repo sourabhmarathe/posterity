@@ -4,9 +4,11 @@ A blog repo to hold my current beliefs accountable in the future
 
 ## Aptos and Blockchain Programmability Spectrum
 
-First post is up [here](crypto/11-24-22-blockchain-programmability-spectrum.md)!
+Latest post: what's drives crypto cycles? Innovations in [capital formation](crypto/capital-formation-cycles.md).
 
 Second post, about maximizing transparent collateral is [here](crypto/assymetric-info-root-evil.md).
+
+First post is up [here](crypto/11-24-22-blockchain-programmability-spectrum.md)!
 
 ## Why Git(Hub)?
 
